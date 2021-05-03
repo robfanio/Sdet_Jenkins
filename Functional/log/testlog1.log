@@ -1294,3 +1294,25 @@
 2021-05-02 09:56:58,865 [main] INFO Functional - user name provided
 2021-05-02 09:56:58,937 [main] INFO Functional - password provided
 2021-05-02 09:57:02,387 [main] INFO Functional - Login passed
+2021-05-03 16:21:36,261 [main] INFO Functional - Assert Passed
+2021-05-03 16:21:41,548 [main] INFO Functional - open url
+2021-05-03 16:21:41,549 [main] INFO Functional - SigIn into the website
+2021-05-03 16:21:42,211 [main] INFO Functional - Verified The Title Page
+2021-05-03 16:21:42,600 [main] INFO Functional - open url
+2021-05-03 16:21:43,475 [main] INFO Functional - open url
+2021-05-03 16:21:47,656 [main] INFO Functional - OPEN THE URL
+2021-05-03 16:21:49,663 [main] INFO Functional - user name provided
+2021-05-03 16:21:49,779 [main] INFO Functional - password provided
+2021-05-03 16:21:53,263 [main] INFO Functional - Login passed
+2021-05-03 16:21:56,700 [main] INFO Functional - OPEN THE URL
+2021-05-03 16:21:57,392 [main] INFO Functional - user name provided
+2021-05-03 16:21:57,497 [main] INFO Functional - password provided
+2021-05-03 16:22:00,888 [main] INFO Functional - Login passed
+2021-05-03 16:22:03,260 [main] INFO Functional - OPEN THE URL
+2021-05-03 16:22:03,710 [main] INFO Functional - user name provided
+2021-05-03 16:22:03,824 [main] INFO Functional - password provided
+2021-05-03 16:22:07,196 [main] INFO Functional - Login passed
+2021-05-03 16:22:11,717 [main] INFO Functional - OPEN THE URL
+2021-05-03 16:22:13,141 [main] INFO Functional - user name provided
+2021-05-03 16:22:13,244 [main] INFO Functional - password provided
+2021-05-03 16:22:16,644 [main] INFO Functional - Login passed
