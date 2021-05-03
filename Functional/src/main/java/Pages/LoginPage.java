@@ -16,7 +16,8 @@ public class LoginPage {
 	@FindBy(xpath="//input[@name='password']") public WebElement passwordName;
 	@FindBy(xpath="//input[@type='submit']") public WebElement submit;
 	@FindBy(xpath="//div[@class ='logo']") public WebElement logo;
-	@FindBy(xpath="//td[text()='Manger Id : mngr319346']") public WebElement ManagerId;
+	@FindBy(xpath="//img[@src='../images/1.gif']") public WebElement Guru;
+	@FindBy(xpath="//a[text()='Log out']") public WebElement logout;
 	
 	//------INPUT THE USERNAME----//
 	
@@ -33,10 +34,14 @@ public class LoginPage {
 		submit.click();
 	}
 	
+	//combination of userName, passwordName and submit
 	public void SignIn(String name, String pass) {
 		userName.sendKeys(name);
 		passwordName.sendKeys(pass);
 		submit.click();
+	}
+	public void clickLogout() {
+		logout.click();
 	}
 
 }

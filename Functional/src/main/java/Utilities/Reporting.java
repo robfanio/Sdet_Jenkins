@@ -17,7 +17,7 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
-public class Reporting extends TestListenerAdapter{
+public class Reporting extends TestListenerAdapter{ 
 	
 	public ExtentHtmlReporter htmlReporter;
 	public ExtentReports extent;

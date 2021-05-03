@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name = "Suite1">
+<suite name="Suite1">
 	<listeners>
-		<listener class-name ="Utilities.Reporting"/>
-	
+		<listener class-name="Utilities.Reporting" />
+
 	</listeners>
-	<test name = " functionalTesting">
-	<parameter name = "browser" value = "chrome"/>
-	<classes>
-		<class name ="Test.LoginTest"/>
-	
-	</classes>
-	
+	<test name=" functionalTesting">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="Test.TC_01_AddCustomersTest" />
+			<class name="Test.TC_02_LoginTest" />
+			<class name="Test.TC_03_LogIn_TestDD" />
+
+		</classes>
+
 	</test>
 
 </suite>

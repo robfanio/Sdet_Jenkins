@@ -7,13 +7,21 @@
   <test thread-count="5" name=" functionalTesting(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Test.LoginTest">
+      <class name="Test.TC_01_AddCustomersTest">
+        <methods>
+          <include name="AddCust"/>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Test.TC_01_AddCustomersTest -->
+      <class name="Test.TC_02_LoginTest">
         <methods>
           <include name="SetUp"/>
+          <include name="display"/>
           <include name="tearDown"/>
           <include name="getTitle"/>
         </methods>
-      </class> <!-- Test.LoginTest -->
+      </class> <!-- Test.TC_02_LoginTest -->
     </classes>
   </test> <!--  functionalTesting(failed) -->
 </suite> <!-- Failed suite [Suite1] -->
