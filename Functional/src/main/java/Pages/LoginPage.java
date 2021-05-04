@@ -22,6 +22,7 @@ public class LoginPage {
 	//------INPUT THE USERNAME----//
 	
 	public void userInput(String user) {
+		
 		userName.sendKeys(user);
 	}
 

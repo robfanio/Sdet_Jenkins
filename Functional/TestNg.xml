@@ -10,6 +10,7 @@
 			<class name="Test.TC_01_AddCustomersTest" />
 			<class name="Test.TC_02_LoginTest" />
 			<class name="Test.TC_03_LogIn_TestDD" />
+			<class name = "Test.TC_04_Deposits"/>
 
 		</classes>
 

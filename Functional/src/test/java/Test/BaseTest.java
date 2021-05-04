@@ -1,10 +1,12 @@
 package Test;
 
 import org.testng.annotations.BeforeClass;
+
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import Pages.AddCustomersPage;
+import Pages.DepositsPage;
 import Pages.LoginPage;
 import Utilities.ReadConfig;
 import java.io.File;
@@ -23,10 +25,17 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.AfterClass;
+
+
+
 public class BaseTest {
+	//--------------------Pages-----------------//
 	WebDriver driver;
 	LoginPage lgPage;
 	AddCustomersPage addCustomers;
+	DepositsPage deposit;
+	
+	
 	
 	public static Logger logger;
 	ReadConfig readConfig = new ReadConfig();
@@ -54,12 +63,13 @@ public class BaseTest {
 			driver = new ChromeDriver();
 			driver.manage().window().maximize();
 			driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
-			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			
 			//----------PAGES--------//
 			
 			lgPage = new LoginPage(driver);
 			addCustomers= new AddCustomersPage(driver);
+			deposit = new DepositsPage(driver);
 			
 
 		} else if (browsers.equalsIgnoreCase("firefox")) {
@@ -68,12 +78,13 @@ public class BaseTest {
 			driver = new FirefoxDriver();
 			driver.manage().window().maximize();
 			driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
-			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			
 			//----------PAGES--------//
 			
-			lgPage = new LoginPage(driver);
+			lgPage = new LoginPage(driver); 
 			addCustomers= new AddCustomersPage(driver);
+			deposit = new DepositsPage(driver);
 			
 		} else if (browsers.equalsIgnoreCase("IE")) {
 			System.setProperty("webdriver.ie.driver", readConfig.getIE());
@@ -86,6 +97,7 @@ public class BaseTest {
 			
 			lgPage = new LoginPage(driver);
 			addCustomers= new AddCustomersPage(driver);
+			deposit = new DepositsPage(driver);
 		}
 
 	}

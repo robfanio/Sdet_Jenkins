@@ -21,7 +21,7 @@ public class TC_01_AddCustomersTest extends BaseTest {
 		addCustomers.custcity("Galloway");
 		addCustomers.custstate("New Jersey");
 		addCustomers.custpinno("0820511");
-		addCustomers.custdob("04", "19", "1985");
+		addCustomers.custdob("04", "19", "1985"); 
 		addCustomers.custtelephoneno("123456789");
 		
 		String email =randomestring()+"@gmail.com";

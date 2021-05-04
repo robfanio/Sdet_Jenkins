@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Failed suite [Suite1]]" guice-stage="DEVELOPMENT">
-  <listeners>
-    <listener class-name="Utilities.Reporting"/>
-  </listeners>
-  <test thread-count="5" name=" functionalTesting(failed)(failed)">
-    <parameter name="browser" value="chrome"/>
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Test.TC_02_LoginTest">
+      <class name="Test.TC_04_Deposits">
         <methods>
           <include name="SetUp"/>
-          <include name="display"/>
           <include name="tearDown"/>
+          <include name="addDeposit"/>
         </methods>
-      </class> <!-- Test.TC_02_LoginTest -->
+      </class> <!-- Test.TC_04_Deposits -->
     </classes>
-  </test> <!--  functionalTesting(failed)(failed) -->
-</suite> <!-- Failed suite [Failed suite [Suite1]] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -7,6 +7,13 @@
   <test thread-count="5" name=" functionalTesting(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="Test.TC_03_LogIn_TestDD">
+        <methods>
+          <include name="SetUp"/>
+          <include name="loginDDT"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Test.TC_03_LogIn_TestDD -->
       <class name="Test.TC_01_AddCustomersTest">
         <methods>
           <include name="AddCust"/>
@@ -20,6 +27,8 @@
           <include name="display"/>
           <include name="tearDown"/>
           <include name="getTitle"/>
+          <include name="btnClickable"/>
+          <include name="LogoVerification"/>
         </methods>
       </class> <!-- Test.TC_02_LoginTest -->
     </classes>
