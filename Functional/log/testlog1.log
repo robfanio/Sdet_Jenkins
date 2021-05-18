@@ -1469,3 +1469,246 @@
 2021-05-04 16:21:41,860 [main] INFO Functional - INPUT DESCRIPTION
 2021-05-04 16:21:41,919 [main] INFO Functional - CLICK SUBMIT
 2021-05-04 16:21:45,568 [main] INFO Functional - SWITCH ALERT
+2021-05-13 20:22:30,730 [main] INFO Functional - Assert Passed
+2021-05-13 20:22:33,524 [main] INFO Functional - open url
+2021-05-13 20:22:33,525 [main] INFO Functional - SigIn into the website
+2021-05-13 20:22:34,215 [main] INFO Functional - Verified The Title Page
+2021-05-13 20:22:34,561 [main] INFO Functional - open url
+2021-05-13 20:22:35,426 [main] INFO Functional - open url
+2021-05-13 20:22:39,344 [main] INFO Functional - OPEN THE URL
+2021-05-13 20:22:40,658 [main] INFO Functional - user name provided
+2021-05-13 20:22:40,767 [main] INFO Functional - password provided
+2021-05-13 20:22:44,199 [main] INFO Functional - Login passed
+2021-05-13 20:22:44,965 [main] INFO Functional - OPEN THE URL
+2021-05-13 20:22:45,639 [main] INFO Functional - user name provided
+2021-05-13 20:22:45,730 [main] INFO Functional - password provided
+2021-05-13 20:22:49,270 [main] INFO Functional - Login passed
+2021-05-13 20:22:50,756 [main] INFO Functional - OPEN THE URL
+2021-05-13 20:22:51,645 [main] INFO Functional - user name provided
+2021-05-13 20:22:51,756 [main] INFO Functional - password provided
+2021-05-13 20:22:55,719 [main] INFO Functional - Login passed
+2021-05-13 20:22:56,490 [main] INFO Functional - OPEN THE URL
+2021-05-13 20:22:57,193 [main] INFO Functional - user name provided
+2021-05-13 20:22:57,284 [main] INFO Functional - password provided
+2021-05-13 20:23:01,143 [main] INFO Functional - Login passed
+2021-05-13 20:23:04,386 [main] INFO Functional - OPEN URL
+2021-05-13 20:23:05,123 [main] INFO Functional - USER INPUT
+2021-05-13 20:23:05,287 [main] INFO Functional - PASSWORD INPUT
+2021-05-13 20:23:05,385 [main] INFO Functional - CLICK SUBMIT
+2021-05-13 20:23:05,902 [main] INFO Functional - CLICK DEPOSIT
+2021-05-13 20:23:06,173 [main] INFO Functional - INPUNT ACCOUNT
+2021-05-13 20:23:06,262 [main] INFO Functional - INPUT AMOUNT
+2021-05-13 20:23:06,339 [main] INFO Functional - INPUT DESCRIPTION
+2021-05-13 20:23:06,441 [main] INFO Functional - CLICK SUBMIT
+2021-05-13 20:23:06,666 [main] INFO Functional - SWITCH ALERT
+2021-05-13 20:25:23,790 [main] INFO Functional - Assert Passed
+2021-05-13 20:25:27,095 [main] INFO Functional - open url
+2021-05-13 20:25:27,098 [main] INFO Functional - SigIn into the website
+2021-05-13 20:25:27,777 [main] INFO Functional - Verified The Title Page
+2021-05-13 20:25:28,027 [main] INFO Functional - open url
+2021-05-13 20:25:28,885 [main] INFO Functional - open url
+2021-05-13 20:25:33,363 [main] INFO Functional - OPEN THE URL
+2021-05-13 20:25:34,938 [main] INFO Functional - user name provided
+2021-05-13 20:25:35,040 [main] INFO Functional - password provided
+2021-05-13 20:25:38,512 [main] INFO Functional - Login passed
+2021-05-13 20:25:39,355 [main] INFO Functional - OPEN THE URL
+2021-05-13 20:25:40,409 [main] INFO Functional - user name provided
+2021-05-13 20:25:40,494 [main] INFO Functional - password provided
+2021-05-13 20:25:43,978 [main] INFO Functional - Login passed
+2021-05-13 20:25:45,352 [main] INFO Functional - OPEN THE URL
+2021-05-13 20:25:46,455 [main] INFO Functional - user name provided
+2021-05-13 20:25:46,574 [main] INFO Functional - password provided
+2021-05-13 20:25:50,021 [main] INFO Functional - Login passed
+2021-05-13 20:25:51,904 [main] INFO Functional - OPEN THE URL
+2021-05-13 20:25:53,018 [main] INFO Functional - user name provided
+2021-05-13 20:25:53,091 [main] INFO Functional - password provided
+2021-05-13 20:25:57,197 [main] INFO Functional - Login passed
+2021-05-13 20:26:00,613 [main] INFO Functional - OPEN URL
+2021-05-13 20:26:05,350 [main] INFO Functional - USER INPUT
+2021-05-13 20:26:05,506 [main] INFO Functional - PASSWORD INPUT
+2021-05-13 20:26:05,616 [main] INFO Functional - CLICK SUBMIT
+2021-05-13 20:26:06,047 [main] INFO Functional - CLICK DEPOSIT
+2021-05-13 20:26:06,339 [main] INFO Functional - INPUNT ACCOUNT
+2021-05-13 20:26:06,470 [main] INFO Functional - INPUT AMOUNT
+2021-05-13 20:26:06,590 [main] INFO Functional - INPUT DESCRIPTION
+2021-05-13 20:26:06,724 [main] INFO Functional - CLICK SUBMIT
+2021-05-13 20:26:06,984 [main] INFO Functional - SWITCH ALERT
+2021-05-17 08:30:07,708 [main] INFO Functional - OPEN URL
+2021-05-17 08:30:08,472 [main] INFO Functional - USER INPUT
+2021-05-17 08:30:08,586 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 08:30:08,653 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 08:41:18,121 [main] INFO Functional - OPEN URL
+2021-05-17 08:41:18,992 [main] INFO Functional - USER INPUT
+2021-05-17 08:41:19,076 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 08:41:19,138 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 08:41:19,482 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 08:43:38,384 [main] INFO Functional - OPEN URL
+2021-05-17 08:43:39,057 [main] INFO Functional - USER INPUT
+2021-05-17 08:43:39,153 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 08:43:39,217 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 08:43:39,574 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 08:45:29,895 [main] INFO Functional - OPEN URL
+2021-05-17 08:45:30,619 [main] INFO Functional - USER INPUT
+2021-05-17 08:45:30,718 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 08:45:30,786 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 08:45:31,121 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 08:51:31,020 [main] INFO Functional - OPEN URL
+2021-05-17 08:51:31,766 [main] INFO Functional - USER INPUT
+2021-05-17 08:51:31,872 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 08:51:31,954 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 08:51:32,447 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 08:51:58,155 [main] INFO Functional - OPEN URL
+2021-05-17 08:51:58,877 [main] INFO Functional - USER INPUT
+2021-05-17 08:51:58,988 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 08:51:59,064 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 08:51:59,426 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 08:59:16,005 [main] INFO Functional - OPEN URL
+2021-05-17 08:59:16,824 [main] INFO Functional - USER INPUT
+2021-05-17 08:59:16,916 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 08:59:16,984 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 08:59:17,332 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 09:00:28,105 [main] INFO Functional - OPEN URL
+2021-05-17 09:00:28,788 [main] INFO Functional - USER INPUT
+2021-05-17 09:00:28,895 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:00:28,963 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:00:29,369 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 09:02:03,442 [main] INFO Functional - Assert Passed
+2021-05-17 09:03:48,269 [main] INFO Functional - OPEN URL
+2021-05-17 09:03:49,012 [main] INFO Functional - USER INPUT
+2021-05-17 09:03:49,096 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:03:49,156 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:03:49,515 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 09:04:39,632 [main] INFO Functional - OPEN URL
+2021-05-17 09:04:40,567 [main] INFO Functional - USER INPUT
+2021-05-17 09:04:40,652 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:04:40,726 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:04:41,163 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 09:08:47,004 [main] INFO Functional - OPEN URL
+2021-05-17 09:08:47,803 [main] INFO Functional - USER INPUT
+2021-05-17 09:08:47,888 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:08:47,949 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:08:48,429 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 09:09:03,827 [main] INFO Functional - OPEN URL
+2021-05-17 09:09:04,536 [main] INFO Functional - USER INPUT
+2021-05-17 09:09:04,613 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:09:04,674 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:09:05,066 [main] INFO Functional - CLICK DEPOSIT
+2021-05-17 09:09:05,347 [main] INFO Functional - INPUNT ACCOUNT
+2021-05-17 09:09:05,423 [main] INFO Functional - INPUT AMOUNT
+2021-05-17 09:09:05,500 [main] INFO Functional - INPUT DESCRIPTION
+2021-05-17 09:09:05,575 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:09:05,782 [main] INFO Functional - SWITCH ALERT
+2021-05-17 09:09:27,484 [main] INFO Functional - OPEN URL
+2021-05-17 09:09:28,235 [main] INFO Functional - USER INPUT
+2021-05-17 09:09:28,337 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:09:28,409 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:09:28,972 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 09:11:21,313 [main] INFO Functional - OPEN URL
+2021-05-17 09:11:22,014 [main] INFO Functional - USER INPUT
+2021-05-17 09:11:22,126 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:11:22,198 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:11:22,718 [main] INFO Functional - CLICK ON DELETE ACCOUNT
+2021-05-17 09:11:48,926 [main] INFO Functional - OPEN URL
+2021-05-17 09:11:49,736 [main] INFO Functional - USER INPUT
+2021-05-17 09:11:49,857 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:11:49,922 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:12:13,682 [main] INFO Functional - OPEN URL
+2021-05-17 09:12:14,338 [main] INFO Functional - USER INPUT
+2021-05-17 09:12:14,422 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:12:14,496 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:30:38,005 [main] INFO Functional - OPEN URL
+2021-05-17 09:30:38,844 [main] INFO Functional - USER INPUT
+2021-05-17 09:30:38,956 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:30:39,031 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:32:08,745 [main] INFO Functional - OPEN URL
+2021-05-17 09:32:09,551 [main] INFO Functional - USER INPUT
+2021-05-17 09:32:09,645 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:32:09,718 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:32:52,247 [main] INFO Functional - OPEN URL
+2021-05-17 09:32:52,971 [main] INFO Functional - USER INPUT
+2021-05-17 09:32:53,076 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:32:53,152 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:33:05,315 [main] INFO Functional - OPEN URL
+2021-05-17 09:33:06,045 [main] INFO Functional - USER INPUT
+2021-05-17 09:33:06,159 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:33:06,233 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:34:10,533 [main] INFO Functional - OPEN URL
+2021-05-17 09:34:11,263 [main] INFO Functional - USER INPUT
+2021-05-17 09:34:11,367 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:34:11,437 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:34:45,071 [main] INFO Functional - OPEN URL
+2021-05-17 09:34:45,784 [main] INFO Functional - USER INPUT
+2021-05-17 09:34:45,888 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:34:45,956 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:36:18,608 [main] INFO Functional - Assert Passed
+2021-05-17 09:36:21,292 [main] INFO Functional - open url
+2021-05-17 09:36:21,292 [main] INFO Functional - SigIn into the website
+2021-05-17 09:36:21,911 [main] INFO Functional - Verified The Title Page
+2021-05-17 09:36:22,178 [main] INFO Functional - open url
+2021-05-17 09:36:22,981 [main] INFO Functional - open url
+2021-05-17 09:36:26,605 [main] INFO Functional - OPEN THE URL
+2021-05-17 09:36:27,487 [main] INFO Functional - user name provided
+2021-05-17 09:36:27,554 [main] INFO Functional - password provided
+2021-05-17 09:36:31,033 [main] INFO Functional - Login passed
+2021-05-17 09:36:31,716 [main] INFO Functional - OPEN THE URL
+2021-05-17 09:36:32,071 [main] INFO Functional - user name provided
+2021-05-17 09:36:32,145 [main] INFO Functional - password provided
+2021-05-17 09:36:35,485 [main] INFO Functional - Login passed
+2021-05-17 09:36:36,132 [main] INFO Functional - OPEN THE URL
+2021-05-17 09:36:36,600 [main] INFO Functional - user name provided
+2021-05-17 09:36:36,671 [main] INFO Functional - password provided
+2021-05-17 09:36:40,004 [main] INFO Functional - Login passed
+2021-05-17 09:36:40,546 [main] INFO Functional - OPEN THE URL
+2021-05-17 09:36:41,001 [main] INFO Functional - user name provided
+2021-05-17 09:36:41,083 [main] INFO Functional - password provided
+2021-05-17 09:36:44,481 [main] INFO Functional - Login passed
+2021-05-17 09:36:47,030 [main] INFO Functional - OPEN URL
+2021-05-17 09:36:47,807 [main] INFO Functional - USER INPUT
+2021-05-17 09:36:47,895 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:36:47,956 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:36:48,366 [main] INFO Functional - CLICK DEPOSIT
+2021-05-17 09:36:48,617 [main] INFO Functional - INPUNT ACCOUNT
+2021-05-17 09:36:48,692 [main] INFO Functional - INPUT AMOUNT
+2021-05-17 09:36:48,768 [main] INFO Functional - INPUT DESCRIPTION
+2021-05-17 09:36:48,847 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 09:36:49,099 [main] INFO Functional - SWITCH ALERT
+2021-05-17 09:36:51,023 [main] INFO Functional - OPEN URL
+2021-05-17 09:36:51,736 [main] INFO Functional - USER INPUT
+2021-05-17 09:36:51,811 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 09:36:51,874 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 20:46:41,864 [main] INFO Functional - Assert Passed
+2021-05-17 20:46:44,655 [main] INFO Functional - open url
+2021-05-17 20:46:44,656 [main] INFO Functional - SigIn into the website
+2021-05-17 20:46:45,188 [main] INFO Functional - Verified The Title Page
+2021-05-17 20:46:45,473 [main] INFO Functional - open url
+2021-05-17 20:46:46,311 [main] INFO Functional - open url
+2021-05-17 20:46:49,988 [main] INFO Functional - OPEN THE URL
+2021-05-17 20:46:50,860 [main] INFO Functional - user name provided
+2021-05-17 20:46:50,958 [main] INFO Functional - password provided
+2021-05-17 20:46:54,342 [main] INFO Functional - Login passed
+2021-05-17 20:46:54,923 [main] INFO Functional - OPEN THE URL
+2021-05-17 20:46:55,312 [main] INFO Functional - user name provided
+2021-05-17 20:46:55,373 [main] INFO Functional - password provided
+2021-05-17 20:46:58,723 [main] INFO Functional - Login passed
+2021-05-17 20:46:59,280 [main] INFO Functional - OPEN THE URL
+2021-05-17 20:46:59,589 [main] INFO Functional - user name provided
+2021-05-17 20:46:59,664 [main] INFO Functional - password provided
+2021-05-17 20:47:03,066 [main] INFO Functional - Login passed
+2021-05-17 20:47:03,577 [main] INFO Functional - OPEN THE URL
+2021-05-17 20:47:03,915 [main] INFO Functional - user name provided
+2021-05-17 20:47:03,986 [main] INFO Functional - password provided
+2021-05-17 20:47:07,299 [main] INFO Functional - Login passed
+2021-05-17 20:47:09,788 [main] INFO Functional - OPEN URL
+2021-05-17 20:47:10,499 [main] INFO Functional - USER INPUT
+2021-05-17 20:47:10,603 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 20:47:10,687 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 20:47:11,103 [main] INFO Functional - CLICK DEPOSIT
+2021-05-17 20:47:11,354 [main] INFO Functional - INPUNT ACCOUNT
+2021-05-17 20:47:11,427 [main] INFO Functional - INPUT AMOUNT
+2021-05-17 20:47:11,499 [main] INFO Functional - INPUT DESCRIPTION
+2021-05-17 20:47:11,556 [main] INFO Functional - CLICK SUBMIT
+2021-05-17 20:47:11,749 [main] INFO Functional - SWITCH ALERT
+2021-05-17 20:47:13,737 [main] INFO Functional - OPEN URL
+2021-05-17 20:47:14,389 [main] INFO Functional - USER INPUT
+2021-05-17 20:47:14,485 [main] INFO Functional - PASSWORD INPUT
+2021-05-17 20:47:14,548 [main] INFO Functional - CLICK SUBMIT

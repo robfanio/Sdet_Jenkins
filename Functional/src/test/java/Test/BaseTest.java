@@ -6,6 +6,7 @@ import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import Pages.AddCustomersPage;
+import Pages.Delete_Account;
 import Pages.DepositsPage;
 import Pages.LoginPage;
 import Utilities.ReadConfig;
@@ -34,6 +35,7 @@ public class BaseTest {
 	LoginPage lgPage;
 	AddCustomersPage addCustomers;
 	DepositsPage deposit;
+	Delete_Account delete_account;
 	
 	
 	
@@ -60,6 +62,7 @@ public class BaseTest {
 		if (browsers.equalsIgnoreCase("Chrome")) {
 
 			System.setProperty("webdriver.chrome.driver", readConfig.getChrome());
+			System.setProperty("webdriver.chrome.verboselogging", "true");
 			driver = new ChromeDriver();
 			driver.manage().window().maximize();
 			driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
@@ -70,7 +73,7 @@ public class BaseTest {
 			lgPage = new LoginPage(driver);
 			addCustomers= new AddCustomersPage(driver);
 			deposit = new DepositsPage(driver);
-			
+			delete_account = new Delete_Account(driver);
 
 		} else if (browsers.equalsIgnoreCase("firefox")) {
 
@@ -85,6 +88,7 @@ public class BaseTest {
 			lgPage = new LoginPage(driver); 
 			addCustomers= new AddCustomersPage(driver);
 			deposit = new DepositsPage(driver);
+			delete_account = new Delete_Account(driver);
 			
 		} else if (browsers.equalsIgnoreCase("IE")) {
 			System.setProperty("webdriver.ie.driver", readConfig.getIE());
@@ -98,6 +102,7 @@ public class BaseTest {
 			lgPage = new LoginPage(driver);
 			addCustomers= new AddCustomersPage(driver);
 			deposit = new DepositsPage(driver);
+			delete_account = new Delete_Account(driver);
 		}
 
 	}

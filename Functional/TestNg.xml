@@ -11,6 +11,7 @@
 			<class name="Test.TC_02_LoginTest" />
 			<class name="Test.TC_03_LogIn_TestDD" />
 			<class name = "Test.TC_04_Deposits"/>
+			<class name ="Test.TC_05_Delete_Account_Test"/>
 
 		</classes>
 

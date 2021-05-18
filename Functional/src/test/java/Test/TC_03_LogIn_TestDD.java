@@ -15,7 +15,7 @@ public class TC_03_LogIn_TestDD extends BaseTest {
 	@Test(dataProvider="LoginData")
 	public void loginDDT(String user,String pwd) throws InterruptedException
 	{
-		logger.info("OPEN THE URL");
+		logger.info("OPEN THE URL"); 
 		OpenUrl();
 		String path = System.getProperty("user.dir");
 		System.out.println(path);

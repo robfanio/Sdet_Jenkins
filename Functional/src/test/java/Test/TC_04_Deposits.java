@@ -8,7 +8,7 @@ public class TC_04_Deposits extends BaseTest {
 	public void addDeposit() {
 		logger.info("OPEN URL");
 		OpenUrl();
-		logger.info("USER INPUT");
+		logger.info("USER INPUT"); 
 		lgPage.userInput(userId);
 
 		logger.info("PASSWORD INPUT");

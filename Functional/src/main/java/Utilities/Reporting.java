@@ -34,7 +34,7 @@ public class Reporting extends TestListenerAdapter{
 		
 		extent=new ExtentReports();
 		
-		extent.attachReporter(htmlReporter);
+		extent.attachReporter(htmlReporter); 
 		extent.setSystemInfo("Host name","localhost");
 		extent.setSystemInfo("OS", "Windows 10");
 		extent.setSystemInfo("Browser", "Chrome, Firefox");

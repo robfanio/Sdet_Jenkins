@@ -100,7 +100,7 @@ public class AddCustomersPage {
 	}
 
 	public void custstate(String cstate) {
-		txtstate.sendKeys(cstate);
+		txtstate.sendKeys(cstate); 
 	}
 
 	public void custpinno(String cpinno) {
